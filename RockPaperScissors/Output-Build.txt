@@ -1,1 +1,3 @@
-﻿
+﻿1>------ Build started: Project: RockPaperScissors, Configuration: Debug Any CPU ------
+1>RockPaperScissors -> C:\Users\jv145104\Desktop\C# Projects\Chapter-4\chapter-4-Jon\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.0\RockPaperScissors.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
