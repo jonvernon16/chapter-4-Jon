@@ -1,0 +1,10 @@
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\chapter-4-Jon\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.deps.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\chapter-4-Jon\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.runtimeconfig.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\chapter-4-Jon\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.runtimeconfig.dev.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\chapter-4-Jon\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\chapter-4-Jon\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.pdb
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\chapter-4-Jon\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\chapter-4-Jon\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\chapter-4-Jon\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.AssemblyInfo.cs
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\chapter-4-Jon\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\chapter-4-Jon\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.pdb

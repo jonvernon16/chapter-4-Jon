@@ -1,0 +1,11 @@
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\3NumberComparer\3NumberComparer\bin\Debug\netcoreapp2.0\3NumberComparer.deps.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\3NumberComparer\3NumberComparer\bin\Debug\netcoreapp2.0\3NumberComparer.runtimeconfig.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\3NumberComparer\3NumberComparer\bin\Debug\netcoreapp2.0\3NumberComparer.runtimeconfig.dev.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\3NumberComparer\3NumberComparer\bin\Debug\netcoreapp2.0\3NumberComparer.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\3NumberComparer\3NumberComparer\bin\Debug\netcoreapp2.0\3NumberComparer.pdb
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\3NumberComparer\3NumberComparer\obj\Debug\netcoreapp2.0\3NumberComparer.csprojAssemblyReference.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\3NumberComparer\3NumberComparer\obj\Debug\netcoreapp2.0\3NumberComparer.csproj.CoreCompileInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\3NumberComparer\3NumberComparer\obj\Debug\netcoreapp2.0\3NumberComparer.AssemblyInfoInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\3NumberComparer\3NumberComparer\obj\Debug\netcoreapp2.0\3NumberComparer.AssemblyInfo.cs
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\3NumberComparer\3NumberComparer\obj\Debug\netcoreapp2.0\3NumberComparer.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\3NumberComparer\3NumberComparer\obj\Debug\netcoreapp2.0\3NumberComparer.pdb

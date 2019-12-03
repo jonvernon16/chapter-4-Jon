@@ -1,0 +1,11 @@
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\Admission\Admission\bin\Debug\netcoreapp2.0\Admission.deps.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\Admission\Admission\bin\Debug\netcoreapp2.0\Admission.runtimeconfig.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\Admission\Admission\bin\Debug\netcoreapp2.0\Admission.runtimeconfig.dev.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\Admission\Admission\bin\Debug\netcoreapp2.0\Admission.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\Admission\Admission\bin\Debug\netcoreapp2.0\Admission.pdb
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\Admission\Admission\obj\Debug\netcoreapp2.0\Admission.csprojAssemblyReference.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\Admission\Admission\obj\Debug\netcoreapp2.0\Admission.csproj.CoreCompileInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\Admission\Admission\obj\Debug\netcoreapp2.0\Admission.AssemblyInfoInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\Admission\Admission\obj\Debug\netcoreapp2.0\Admission.AssemblyInfo.cs
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\Admission\Admission\obj\Debug\netcoreapp2.0\Admission.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-4\Admission\Admission\obj\Debug\netcoreapp2.0\Admission.pdb
